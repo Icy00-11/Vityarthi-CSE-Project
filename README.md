@@ -1,4 +1,4 @@
-#📊 **ProgramCodes.ipynb: Computational Number Theory & Performance Analysis**
+#📊 **Computational Number Theory & Performance Analysis**
 
 #**Overview**
 
