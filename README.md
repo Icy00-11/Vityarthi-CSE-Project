@@ -1,4 +1,4 @@
-ython Computational Number Theory & Mathematics Library
+Python Computational Number Theory & Mathematics Library
 
  Overview of the Project
 
