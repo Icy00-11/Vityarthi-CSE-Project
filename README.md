@@ -12,24 +12,24 @@ The primary goal is to provide runnable, self-contained implementations of these
 
 ###**1. Number Properties & Classification**
 
--✅✅✅Covers fundamental characteristics and classifications of integers:
+----Covers fundamental characteristics and classifications of integers:
 
--✅✅✅Classification: Checking for properties like Palindromic, Abundant, Deficient, Harshad, Automorphic, and Pronic numbers.
+----Classification: Checking for properties like Palindromic, Abundant, Deficient, Harshad, Automorphic, and Pronic numbers.
 
--✅✅✅Calculations: Finding the Factorial, Mean of Digits, and Digital Root.
+----Calculations: Finding the Factorial, Mean of Digits, and Digital Root.
 
--✅✅✅Testing: Checking if a number is a Perfect Power.
+----Testing: Checking if a number is a Perfect Power.
 ###**2. Prime Numbers & Factorization**
 
--✅✅✅Includes foundational and advanced algorithms essential for number theoretic computations:
+-----Includes foundational and advanced algorithms essential for number theoretic computations:
 
--✅✅✅Basic Factorization: Calculating Prime Factors and Counting Distinct Prime Factors.
+-----Basic Factorization: Calculating Prime Factors and Counting Distinct Prime Factors.
 
--✅✅✅Primality Testing: Testing for Prime Power and Mersenne Primes.
+----Primality Testing: Testing for Prime Power and Mersenne Primes.
 
--✅✅✅Advanced Algorithms: Advanced primality testing using the Miller-Rabin Algorithm and factorization using the Pollard's Rho Algorithm.
+----Advanced Algorithms: Advanced primality testing using the Miller-Rabin Algorithm and factorization using the Pollard's Rho Algorithm.
 
--✅✅✅Special Numbers: Generating Twin Primes and checking for Carmichael Numbers.
+----Special Numbers: Generating Twin Primes and checking for Carmichael Numbers.
 
 ###**3. Divisibility & Modular Arithmetic**
 
